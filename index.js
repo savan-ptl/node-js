@@ -4,4 +4,4 @@ console.log(app.xyz())
 const result =arr.filter((item)=>{
     return item>=4
 });
-console.warn(result);
+console.warn(result); 
